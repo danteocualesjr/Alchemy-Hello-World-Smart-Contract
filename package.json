@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/danteocualesjr/Alchemy-Hello-World-Smart-Contract/issues"
   },
-  "homepage": "https://github.com/danteocualesjr/Alchemy-Hello-World-Smart-Contract#readme"
+  "homepage": "https://github.com/danteocualesjr/Alchemy-Hello-World-Smart-Contract#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.0"
+  }
 }
