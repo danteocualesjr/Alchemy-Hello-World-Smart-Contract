@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/danteocualesjr/Alchemy-Hello-World-Smart-Contract#readme",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "ethers": "^5.5.3",
     "hardhat": "^2.8.0"
   },
   "dependencies": {
