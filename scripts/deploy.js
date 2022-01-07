@@ -12,3 +12,8 @@ main()
         console.log(error);
         process.exit(1);
     });
+
+/* 
+This script (deploy.js) is used to deploy the smart contract, and it will result to the contract address being created, 
+which means that the smart contract was successfully deployed
+*/
